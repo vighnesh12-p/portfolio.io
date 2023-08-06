@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from fpdf import FPDF
+#from fpdf import FPDF
 import base64
 
 st.set_page_config(
